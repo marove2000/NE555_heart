@@ -360,12 +360,6 @@ Wire Wire Line
 Connection ~ 5900 4300
 Wire Wire Line
 	5900 4300 5750 4300
-Text Label 6200 4300 0    50   ~ 0
-out
-Text Label 5450 4150 0    50   ~ 0
-a
-Text Label 5450 4450 0    50   ~ 0
-b
 $Comp
 L power:VCC #PWR010
 U 1 1 60076486
@@ -464,10 +458,6 @@ Wire Wire Line
 Connection ~ 5800 7200
 Wire Wire Line
 	5800 7200 5650 7200
-Text Label 5350 7050 0    50   ~ 0
-a
-Text Label 5350 7350 0    50   ~ 0
-b
 $Comp
 L power:VCC #PWR014
 U 1 1 6007C1A5
