@@ -1,4 +1,4 @@
-# I Can Solder - DIP
+# Heart SMD NE555
 24 LEDs forming a LED-Heart driven by a NE555 bistable vibrator. A LED-Light runs around the heart. The speed of the running LED-light can be modified by changeing some resistors.
 This soldering Kit requires first experience in SMD-Soldering and is a very good practice for the size 0805.
 
